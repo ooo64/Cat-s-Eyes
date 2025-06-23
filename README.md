@@ -2,5 +2,6 @@
 Platform RPG
 
 
-Use [SPACE] to JUMP
+Use [SPACE] to JUMP;
+
 Directional Keys to move from left to right
