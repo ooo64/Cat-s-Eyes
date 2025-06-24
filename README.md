@@ -2,6 +2,8 @@
 Platform RPG
 
 
-Use [SPACE] to JUMP;
+Use the space bar to JUMP;
 
-Directional Keys to move from left to right
+Directional Keys to move from left to right;
+
+Jump on an enemy to damage him.
